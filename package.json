@@ -1,7 +1,7 @@
 {
   "name": "animatedtext",
   "version": "1.0.0",
-  "description": "Text Animate",
+  "description": "Animate  Text",
   "main": "index.js",
   "homepage":"https://salah7eddine.github.io/AnimatedText",
   "dependencies": {
@@ -9,8 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy":"gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
